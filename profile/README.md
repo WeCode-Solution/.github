@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, We Are WeCodeSolution</h1>
 <h3 align="center">Kenalan Yuk Sama Kita, Kami WeCode Solution, Sesuai dengan Nama Kami, Kami Akan Memberikan Solusi untuk Codingan Kalian :D</h3>
-<img align = "left" src="https://drive.google.com/file/d/1EdHV4nuyfjvfQyK3iPaKPPxKVKgQT1pT/view?usp=sharing" width="200px" height="200px">
+<img align = "left" src="https://ibb.co/6y79Jb6" width="200px" height="200px">
 - kalau kalian penasaran Kalian Bisa Membuka ini ya [Website kami](citojitu.github.io)
 
 - 📫 How to reach us? **wecodesolution9@gmail.com**
